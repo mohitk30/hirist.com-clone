@@ -1,1 +1,9 @@
-# hirist.com-clone
+# Clone of landing page of hirist.com
+Hi I made this  during my weekand.
+
+<img src="" alt="">
+<br>I got to have hands on experience on:
+<li>HTML
+<li>CSS
+<li>javascript
+ 
