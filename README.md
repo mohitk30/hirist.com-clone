@@ -1,7 +1,7 @@
 # Clone of landing page of hirist.com
 Hi I made this  during my weekand.
 
-<img src="images/porj3img.png" alt="">
+<img src="images/porj3img.PNG" alt="">
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
